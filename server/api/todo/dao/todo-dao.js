@@ -52,4 +52,3 @@ todo_model_1.default.static("deleteTodo", function (id) {
 });
 var Todo = mongoose.model("Todo", todo_model_1.default);
 exports.default = Todo;
-//# sourceMappingURL=todo-dao.js.map

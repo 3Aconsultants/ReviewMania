@@ -105,14 +105,14 @@
 
   "repository": {
     "type": "git",
-    "url": "https://github.com/ankitvr/Review Mania.git"
+    "url": "https://github.com/ankitvr/ReviewMania.git"
   },
   "author": "Ankit Verma",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/ankitvr/Review Mania/issues"
+    "url": "https://github.com/ankitvr/ReviewMania/issues"
   },
-  "homepage": "https://github.com/ankitvr/Review Mania",
+  "homepage": "https://github.com/ankitvr/ReviewMania",
   "engines": {
     "node": "stable"
   }

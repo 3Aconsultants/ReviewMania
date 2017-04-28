@@ -6,4 +6,3 @@ var schema = new mongoose.Schema({
     createdAt: { type: Date, default: Date.now }
 });
 exports.default = schema;
-//# sourceMappingURL=todo-model.js.map
