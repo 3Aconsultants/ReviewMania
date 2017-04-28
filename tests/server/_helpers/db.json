@@ -1,7 +1,7 @@
 {
   "db": {
     "test": {
-      "url": "mongodb://localhost/Review Mania_test"
+      "url": "mongodb://localhost/ReviewMania_db_test"
     }
   }
 }

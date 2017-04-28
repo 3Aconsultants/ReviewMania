@@ -1,7 +1,7 @@
 {
   "name": "ReviewMania",
   "version": "0.0.1",
-  "main": "src/Review Mania.js",
+  "main": "src/ReviewMania.js",
   "scripts": {
 
         "start": "node server/index",
